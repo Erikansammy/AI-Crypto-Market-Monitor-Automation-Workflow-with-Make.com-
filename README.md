@@ -1,3 +1,13 @@
+<img width="463" height="310" alt="image" src="https://github.com/user-attachments/assets/37f49163-adb0-431e-a3d6-d430ec2d8170" />
+
+
+
+
+
+
+
+
+
 # AI-Crypto-Market-Monitor-Automation-Workflow-with-Make.com-
 AI Crypto Market Monitor
 
